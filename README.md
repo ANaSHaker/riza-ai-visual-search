@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/tests-pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest">
   <img src="https://img.shields.io/badge/Case%20Study-source%20included-111827" alt="Case Study">
 </p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.riza.store"><img src="https://img.shields.io/badge/Google%20Play-Get%20it-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"></a> <a href="https://apps.apple.com/sa/app/riza-fashion-shopping/id6758075701"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"></a></p>
 
 > This repository is a cleaned-up, store-agnostic rewrite of the visual search I built for the **RIZA** fashion store.
 > It keeps the production algorithms and tuning but contains no store data, credentials or infrastructure details.
@@ -433,6 +434,8 @@ Keep the API free of store-specific logic. Anything specific to one store belong
 
 ## Links
 
+- RIZA store app — Google Play: <https://play.google.com/store/apps/details?id=com.riza.store>
+- RIZA store app — App Store: <https://apps.apple.com/sa/app/riza-fashion-shopping/id6758075701>
 - FashionCLIP model: <https://huggingface.co/patrickjohncyh/fashion-clip>
 - OWLv2: <https://huggingface.co/google/owlv2-base-patch16-finetuned>
 - FAISS: <https://github.com/facebookresearch/faiss>
