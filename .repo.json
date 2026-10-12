@@ -1,0 +1,6 @@
+{
+  "name": "riza-ai-visual-search",
+  "description": "Search a fashion store by photo: OWLv2 garment detection, FashionCLIP embeddings and FAISS similarity search behind a FastAPI service, plus a secure WordPress/WooCommerce plugin. Built for the RIZA fashion store, rewritten to work with any store.",
+  "topics": ["visual-search", "fashion-clip", "faiss", "fastapi", "woocommerce", "wordpress-plugin", "computer-vision", "image-search", "python", "case-study"],
+  "homepage": null
+}

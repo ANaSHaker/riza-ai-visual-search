@@ -1,0 +1,4 @@
+product_id,image_urls,categories
+101,https://shop.example.com/media/dress-101-front.jpg|https://shop.example.com/media/dress-101-back.jpg,Women|Dresses
+102,https://shop.example.com/media/sneaker-102.jpg,Men|Shoes|Sneakers
+103,https://shop.example.com/media/bag-103.jpg,Accessories|Bags

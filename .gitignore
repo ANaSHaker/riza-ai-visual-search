@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Runtime data / secrets
+.env
+api/data/
+*.db
+*.log
+
+# Editors / tools
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Render scratch
+assets/.render/

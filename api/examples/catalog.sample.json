@@ -1,0 +1,4 @@
+[
+  {"product_id": 101, "image_urls": ["https://shop.example.com/media/dress-101-front.jpg"], "categories": ["Women", "Dresses"]},
+  {"product_id": 102, "image_urls": ["https://shop.example.com/media/sneaker-102.jpg"], "categories": ["Men", "Shoes"]}
+]
